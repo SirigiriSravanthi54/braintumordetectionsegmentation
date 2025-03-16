@@ -228,13 +228,13 @@ st.markdown("""
         margin: 1rem 0;
     }
     .report-box {
-        background-color: #262730;
+        background-color: #111111;
         padding: 20px;
         border-radius: 10px;
         box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     }
     .metric-card {
-        background-color: #262730;
+        background-color: #111111;
         padding: 20px;
         border-radius: 10px;
         box-shadow: 0 2px 4px rgba(0,0,0,0.1);
